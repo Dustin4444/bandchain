@@ -1,6 +1,6 @@
 appdirs==1.4.4
 attrs==19.3.0
-black==19.10b0
+black==26.10.1
 click==7.1.2
 kafka-python==2.0.1
 loguru==0.5.1
